@@ -1,1 +1,1 @@
-
+We designed this program with a simple implementation, to be short and to the point. Most, if not all, of our choices made while making this program were to get our simple task done without much overcomplication.
